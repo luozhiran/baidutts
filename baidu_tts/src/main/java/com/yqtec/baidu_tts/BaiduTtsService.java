@@ -12,7 +12,6 @@ import com.baidu.tts.client.SpeechSynthesizer;
 import com.baidu.tts.client.TtsMode;
 import com.yqtec.baidu_tts.control.InitConfig;
 import com.yqtec.baidu_tts.control.MySyntherizer;
-import com.yqtec.baidu_tts.control.NonBlockSyntherizer;
 import com.yqtec.baidu_tts.listener.MessageListener;
 import com.yqtec.baidu_tts.utils.Logger;
 import com.yqtec.baidu_tts.utils.OfflineResource;
