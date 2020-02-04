@@ -1,8 +1,10 @@
 package com.yqtec.baidu_tts.control;
 
 import android.content.Context;
+import android.media.AudioManager;
 import android.os.Handler;
 import android.os.Message;
+import android.util.Log;
 import android.util.Pair;
 
 import com.baidu.tts.auth.AuthInfo;
