@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yqtec.baidu_tts">
+
+    <application>
+
+        <service
+            android:name=".BaiduTtsService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.yqtec.ttstool.service.BaiduTtsService" />
+            </intent-filter>
+        </service>
+    </application>
+</manifest>

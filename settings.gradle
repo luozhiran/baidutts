@@ -1,0 +1,2 @@
+include ':app', ':baidu_tts'
+rootProject.name='baidutts'
